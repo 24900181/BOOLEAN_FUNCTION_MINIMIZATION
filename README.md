@@ -34,7 +34,8 @@ Hardware – PCs, Cyclone II , USB flasher
 **Program:**
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
-
+Developed by: NETHRA.K  RegisterNumber:  (212224230184)
+~~~
 module exp2a(a,b,c,d,F1);
 intput a,b,c,d;
 output F1;
@@ -48,8 +49,8 @@ intput w,x,y,z;
 output F2;
 assign F2=((~y&z)|(x&y)|(w&y));
 endmodule
-
-Developed by: RegisterNumber: NETHRA.K (212224230184) */
+ ~~~
+ */
 
 
 **RTL realization Output:**
